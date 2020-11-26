@@ -1,0 +1,92 @@
+{
+  "build": "py38h1de35cc_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/osx-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.8,<3.9.0a0",
+    "six",
+    "tqdm"
+  ],
+  "extracted_package_dir": "/Users/wangjianping/pipcook/miniconda3/pkgs/conda-package-handling-1.6.1-py38h1de35cc_0",
+  "features": "",
+  "files": [
+    "bin/cph",
+    "lib/python3.8/site-packages/conda_package_handling-1.7.0+0.g7c4a471.dirty.dist-info/AUTHORS.txt",
+    "lib/python3.8/site-packages/conda_package_handling-1.7.0+0.g7c4a471.dirty.dist-info/INSTALLER",
+    "lib/python3.8/site-packages/conda_package_handling-1.7.0+0.g7c4a471.dirty.dist-info/LICENSE",
+    "lib/python3.8/site-packages/conda_package_handling-1.7.0+0.g7c4a471.dirty.dist-info/METADATA",
+    "lib/python3.8/site-packages/conda_package_handling-1.7.0+0.g7c4a471.dirty.dist-info/RECORD",
+    "lib/python3.8/site-packages/conda_package_handling-1.7.0+0.g7c4a471.dirty.dist-info/WHEEL",
+    "lib/python3.8/site-packages/conda_package_handling-1.7.0+0.g7c4a471.dirty.dist-info/entry_points.txt",
+    "lib/python3.8/site-packages/conda_package_handling-1.7.0+0.g7c4a471.dirty.dist-info/top_level.txt",
+    "lib/python3.8/site-packages/conda_package_handling/__init__.py",
+    "lib/python3.8/site-packages/conda_package_handling/__main__.py",
+    "lib/python3.8/site-packages/conda_package_handling/__pycache__/__init__.cpython-38.pyc",
+    "lib/python3.8/site-packages/conda_package_handling/__pycache__/__main__.cpython-38.pyc",
+    "lib/python3.8/site-packages/conda_package_handling/__pycache__/_version.cpython-38.pyc",
+    "lib/python3.8/site-packages/conda_package_handling/__pycache__/api.cpython-38.pyc",
+    "lib/python3.8/site-packages/conda_package_handling/__pycache__/archive_utils.cpython-38.pyc",
+    "lib/python3.8/site-packages/conda_package_handling/__pycache__/cli.cpython-38.pyc",
+    "lib/python3.8/site-packages/conda_package_handling/__pycache__/conda_fmt.cpython-38.pyc",
+    "lib/python3.8/site-packages/conda_package_handling/__pycache__/exceptions.cpython-38.pyc",
+    "lib/python3.8/site-packages/conda_package_handling/__pycache__/interface.cpython-38.pyc",
+    "lib/python3.8/site-packages/conda_package_handling/__pycache__/tarball.cpython-38.pyc",
+    "lib/python3.8/site-packages/conda_package_handling/__pycache__/utils.cpython-38.pyc",
+    "lib/python3.8/site-packages/conda_package_handling/__pycache__/validate.cpython-38.pyc",
+    "lib/python3.8/site-packages/conda_package_handling/_version.py",
+    "lib/python3.8/site-packages/conda_package_handling/api.py",
+    "lib/python3.8/site-packages/conda_package_handling/archive_utils.py",
+    "lib/python3.8/site-packages/conda_package_handling/archive_utils_cy.cpython-38-darwin.so",
+    "lib/python3.8/site-packages/conda_package_handling/cli.py",
+    "lib/python3.8/site-packages/conda_package_handling/conda_fmt.py",
+    "lib/python3.8/site-packages/conda_package_handling/exceptions.py",
+    "lib/python3.8/site-packages/conda_package_handling/interface.py",
+    "lib/python3.8/site-packages/conda_package_handling/tarball.py",
+    "lib/python3.8/site-packages/conda_package_handling/utils.py",
+    "lib/python3.8/site-packages/conda_package_handling/validate.py"
+  ],
+  "fn": "conda-package-handling-1.6.1-py38h1de35cc_0.conda",
+  "legacy_bz2_md5": "e33f20fa682492559d753d00270a1929",
+  "legacy_bz2_size": 1496870,
+  "license": "BSD-3-Clause",
+  "license_family": "BSD",
+  "link": {
+    "source": "/Users/wangjianping/pipcook/miniconda3/pkgs/conda-package-handling-1.6.1-py38h1de35cc_0",
+    "type": 1
+  },
+  "md5": "4b904eee8e0477e6cf43899763eb9c46",
+  "name": "conda-package-handling",
+  "package_tarball_full_path": "/Users/wangjianping/pipcook/miniconda3/pkgs/conda-package-handling-1.6.1-py38h1de35cc_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "bin/cph",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/concourse/worker/volumes/live/1caa9cf6-943c-4e87-7f1a-4871a460e0d7/volume/conda-package-handling_1588797761919/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_pl",
+        "sha256": "12874ec39600a82fbb12b6243c0e32cd8e2b8e972eae3f9f87e6877584f844ae",
+        "sha256_in_prefix": "60f29e29b52952f658e6684becbed5fe92bbd54897f12aa7669faaa658b494e7",
+        "size_in_bytes": 479
+      },
+      {
+        "_path": "lib/python3.8/site-packages/conda_package_handling/archive_utils_cy.cpython-38-darwin.so",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/concourse/worker/volumes/live/1caa9cf6-943c-4e87-7f1a-4871a460e0d7/volume/conda-package-handling_1588797761919/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_pl",
+        "sha256": "f2f5beffe01a3f06970e50d7d159117179e284827a6fbb5ad31237ba7496467a",
+        "sha256_in_prefix": "2e95a4864afe0a81523c0ed821f9f940b67bc31229903f7ea4f7189770929c62",
+        "size_in_bytes": 2040052
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "conda-package-handling==1.6.1=py38h1de35cc_0",
+  "sha256": "60919b6720312c413c91873f3812a7cbbceabd9d2c7afda99e006679014249d4",
+  "size": 1381280,
+  "subdir": "osx-64",
+  "timestamp": 1588798038356,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/osx-64/conda-package-handling-1.6.1-py38h1de35cc_0.conda",
+  "version": "1.6.1"
+}

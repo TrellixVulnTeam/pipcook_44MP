@@ -1,0 +1,66 @@
+{
+  "build": "h0a44026_1",
+  "build_number": 1,
+  "channel": "https://repo.anaconda.com/pkgs/main/osx-64",
+  "constrains": [],
+  "depends": [
+    "libcxx >=4.0.1"
+  ],
+  "extracted_package_dir": "/Users/wangjianping/pipcook/miniconda3/pkgs/libffi-3.3-h0a44026_1",
+  "features": "",
+  "files": [
+    "include/ffi.h",
+    "include/ffitarget.h",
+    "lib/libffi.7.dylib",
+    "lib/libffi.a",
+    "lib/libffi.dylib",
+    "lib/pkgconfig/libffi.pc",
+    "share/info/libffi.info",
+    "share/man/man3/ffi.3",
+    "share/man/man3/ffi_call.3",
+    "share/man/man3/ffi_prep_cif.3",
+    "share/man/man3/ffi_prep_cif_var.3"
+  ],
+  "fn": "libffi-3.3-h0a44026_1.conda",
+  "legacy_bz2_md5": "0f1c16284d17c5bb6607175a514a213a",
+  "legacy_bz2_size": 49932,
+  "license": "Custom",
+  "link": {
+    "source": "/Users/wangjianping/pipcook/miniconda3/pkgs/libffi-3.3-h0a44026_1",
+    "type": 1
+  },
+  "md5": "9366c4e64987b2d5ebc8f4ffbfebdd87",
+  "name": "libffi",
+  "package_tarball_full_path": "/Users/wangjianping/pipcook/miniconda3/pkgs/libffi-3.3-h0a44026_1.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/libffi.7.dylib",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/concourse/worker/volumes/live/dca3e5a7-203d-47b9-7097-54a54045f705/volume/libffi_1587589490327/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehol",
+        "sha256": "abc40d8800efaf4279100342ffa3ba46505bd34323a79781c7c1be545dcc49f0",
+        "sha256_in_prefix": "e325a7e5d1ee26fa5dab6485ea67532e766db37269c4436b28b87f3dc9336397",
+        "size_in_bytes": 37892
+      },
+      {
+        "_path": "lib/pkgconfig/libffi.pc",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+        "sha256": "189c5407784da1867aa504aa5dde3d737e88edc1102e12b84c91e36e3f4f391f",
+        "sha256_in_prefix": "f27af87a2ad93f9796db4c3e9863c0820cd20701790ac1554764ddb19c742797",
+        "size_in_bytes": 308
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "libffi==3.3=h0a44026_1",
+  "sha256": "578f93d8525a80123c8f97d8e43cabaa08226652f296b8ad2e30563c2d38296b",
+  "size": 45726,
+  "subdir": "osx-64",
+  "timestamp": 1587589608123,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/osx-64/libffi-3.3-h0a44026_1.conda",
+  "version": "3.3"
+}

@@ -1,0 +1,25 @@
+{
+    "plugins": {
+        "dataCollect": {
+            "package": "@pipcook/plugins-image-classification-data-collect",
+            "params": {
+                "url": "https://ai-sample.oss-cn-hangzhou.aliyuncs.com/apple2orange.zip"
+            }
+        },
+        "dataAccess": {
+            "package": "@pipcook/plugins-pascalvoc-data-access"
+        },
+        "modelDefine": {
+            "package": "@pipcook/plugins-tensorflow-cycle-gan-model-define"
+        },
+        "modelTrain": {
+            "package": "@pipcook/plugins-image-generation-tensorflow-model-train",
+            "params": {
+                "niter": 50000
+            }
+        },
+        "modelEvaluate": {
+            "package": "@pipcook/plugins-image-generation-model-evaluate"
+        }
+    }
+}

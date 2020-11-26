@@ -1,0 +1,47 @@
+{
+  "build": "py38_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/osx-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.8,<3.9.0a0"
+  ],
+  "extracted_package_dir": "/Users/wangjianping/pipcook/miniconda3/pkgs/pysocks-1.7.1-py38_0",
+  "features": "",
+  "files": [
+    "lib/python3.8/site-packages/PySocks-1.7.1.dist-info/INSTALLER",
+    "lib/python3.8/site-packages/PySocks-1.7.1.dist-info/LICENSE",
+    "lib/python3.8/site-packages/PySocks-1.7.1.dist-info/METADATA",
+    "lib/python3.8/site-packages/PySocks-1.7.1.dist-info/RECORD",
+    "lib/python3.8/site-packages/PySocks-1.7.1.dist-info/WHEEL",
+    "lib/python3.8/site-packages/PySocks-1.7.1.dist-info/top_level.txt",
+    "lib/python3.8/site-packages/__pycache__/socks.cpython-38.pyc",
+    "lib/python3.8/site-packages/__pycache__/sockshandler.cpython-38.pyc",
+    "lib/python3.8/site-packages/socks.py",
+    "lib/python3.8/site-packages/sockshandler.py"
+  ],
+  "fn": "pysocks-1.7.1-py38_0.conda",
+  "legacy_bz2_md5": "fa805c2754a7e77ac75d68dfc5fad6ba",
+  "legacy_bz2_size": 27916,
+  "license": "BSD 3-Clause",
+  "license_family": "BSD",
+  "link": {
+    "source": "/Users/wangjianping/pipcook/miniconda3/pkgs/pysocks-1.7.1-py38_0",
+    "type": 1
+  },
+  "md5": "b943863db0201d650553116249c2a065",
+  "name": "pysocks",
+  "package_tarball_full_path": "/Users/wangjianping/pipcook/miniconda3/pkgs/pysocks-1.7.1-py38_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "pysocks==1.7.1=py38_0",
+  "sha256": "022a38c6584bd23d0af8167915c7024758f3b4fddbed7bee2ce272a5eccc1e0f",
+  "size": 28609,
+  "subdir": "osx-64",
+  "timestamp": 1573201079402,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/osx-64/pysocks-1.7.1-py38_0.conda",
+  "version": "1.7.1"
+}

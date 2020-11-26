@@ -1,0 +1,25 @@
+{
+  "name": "pipcook",
+  "version": "1.0.0",
+  "description": "pipcook image machine learning",
+  "main": "index.js",
+  "dependencies": {
+    "@pipcook/pipcook-cli": "^1.2.0",
+    "ethereumjs-tx": "^2.1.2",
+    "web3": "^1.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wangjpLancelote/pipcook.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wangjpLancelote/pipcook/issues"
+  },
+  "homepage": "https://github.com/wangjpLancelote/pipcook#readme"
+}
